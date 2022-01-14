@@ -1,0 +1,4 @@
+calvin password 1000 123456789 calvin@gmail.com 80000.0
+john pass 1301 9983456789 john@gmail.com 21345.0
+smith pass2 1062 1282456789 smith@gmail.com 5000.0
+nick password123 2473 7982456789 nick@gmail.com 64000.0
